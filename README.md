@@ -6,6 +6,7 @@ Retrouvez-vous en train de tomber d’un gratte-ciel, au plus profond d’une m�
 Dans cette chute, des objets du quotidien tombent avec vous. Évitez-les, car au moindre contact avec l’un de ces objets, vous réapparaissez au début du niveau !
 
 ![DREAMNIGHTMARE](./dreamNightMare.jpg)
+
 [LIEN VERS DREAM NIGHTMARE](https://a-rthuuur.itch.io/nightmare)
 
 
@@ -13,4 +14,5 @@ Dans cette chute, des objets du quotidien tombent avec vous. Évitez-les, car au
 
 Ce jeu est une reproduction de Doodle Jump.
 ![LIFEOFHEARTH](./lifeOfHearth)
+
 [LIEN VERS LIFE OF HEARTH](https://a-rthuuur.itch.io/life-of-hearth)

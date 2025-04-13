@@ -13,6 +13,8 @@ Dans cette chute, des objets du quotidien tombent avec vous. Évitez-les, car au
 ## LIFE OF HEARTH
 
 Ce jeu est une reproduction de Doodle Jump.
-![LIFEOFHEARTH](./lifeOfHearth)
+
+![LIFEOFHEARTH](./lifeOfHearth.jpg)
+
 
 [LIEN VERS LIFE OF HEARTH](https://a-rthuuur.itch.io/life-of-hearth)

@@ -2,9 +2,9 @@
 
 ## DREAM NIGHTMARE
 
-[LIEN VERS DREAM NIGHTMARE]([https://www.instagram.com/uranium.actu](https://a-rthuuur.itch.io/nightmare))
+[LIEN VERS DREAM NIGHTMARE](https://a-rthuuur.itch.io/nightmare)
 
 
 ## LIFE OF HEARTH
 
-[LIEN VERS LIFE OF HEARTH]([https://www.instagram.com/uranium.actu](https://a-rthuuur.itch.io/life-of-hearth))
+[LIEN VERS LIFE OF HEARTH](https://a-rthuuur.itch.io/life-of-hearth)

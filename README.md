@@ -20,6 +20,6 @@ Plongez dans un monde où vous tombez depuis un gratte-ciel dans une métropole 
 
 Un jeu inspiré de **Doodle Jump**, où vous sautez de plateforme en plateforme dans un univers coloré et dynamique.
 
-[![LIFE OF HEARTH](https://img.shields.io/badge/Jeu%20-%20LIFE%20OF%20HEARTH-FF0000?style=for-the-badge&logo=gamepad&logoColor=white)](https://a-rthuuur.itch.io/life-of-hearth)
+[![LIFE OF HEARTH](https://img.shields.io/badge/Jeu%20-%20LIFE%20OF%20HEARTH-8B0000?style=for-the-badge&logo=gamepad&logoColor=white)](https://a-rthuuur.itch.io/life-of-hearth)
 
 ![LIFEOFHEARTH](./lifeOfHearth.jpg)

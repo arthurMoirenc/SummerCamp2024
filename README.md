@@ -12,8 +12,6 @@ Plongez dans un monde où vous tombez depuis un gratte-ciel dans une métropole 
 
 [![DREAM NIGHTMARE](https://img.shields.io/badge/Jeu%20-%20DREAM%20NIGHTMARE-FF6F61?style=for-the-badge&logo=gamepad&logoColor=white)](https://a-rthuuur.itch.io/nightmare)
 
-[**LIEN VERS DREAM NIGHTMARE**](https://a-rthuuur.itch.io/nightmare)
-
 ![DREAMNIGHTMARE](./dreamNightMare.jpg)
 
 ---

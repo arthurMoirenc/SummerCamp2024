@@ -1,7 +1,5 @@
 <h1 align="center">🧑‍💻 SUMMER CAMP 2024</h1>
 
----
-
 ## 🎮 Réalisations durant le **SUMMER CAMP** de O'CLOCK
 
 Durant le **SUMMER CAMP** réalisé par O'CLOCK, j'ai eu l'opportunité de travailler sur plusieurs projets de **jeux vidéo 2D**.

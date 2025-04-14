@@ -22,6 +22,4 @@ Un jeu inspiré de **Doodle Jump**, où vous sautez de plateforme en plateforme 
 
 [![LIFE OF HEARTH](https://img.shields.io/badge/Jeu%20-%20LIFE%20OF%20HEARTH-6A5ACD?style=for-the-badge&logo=gamepad&logoColor=white)](https://a-rthuuur.itch.io/life-of-hearth)
 
-[**LIEN VERS LIFE OF HEARTH**](https://a-rthuuur.itch.io/life-of-hearth)
-
 ![LIFEOFHEARTH](./lifeOfHearth.jpg)

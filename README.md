@@ -16,7 +16,7 @@ Plongez dans un monde où vous tombez depuis un gratte-ciel dans une métropole 
 
 ---
 
-## 🕹️ LIFE OF HEARTH
+## ❤️ LIFE OF HEARTH
 
 Un jeu inspiré de **Doodle Jump**, où vous sautez de plateforme en plateforme dans un univers coloré et dynamique.
 

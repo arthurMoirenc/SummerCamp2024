@@ -1,4 +1,11 @@
+<h1 align="center">🧑‍💻 SUMMER CAMP 2024</h1>
+
+---
+---
+
 # Durant le SUMMER CAMP réalisé par O'CLOCK, j'ai pu réaliser plusieurs jeux vidéo 2D.
+
+---
 
 ## DREAM NIGHTMARE
 
@@ -9,6 +16,8 @@ Dans cette chute, des objets du quotidien tombent avec vous. Évitez-les, car au
 
 [LIEN VERS DREAM NIGHTMARE](https://a-rthuuur.itch.io/nightmare)
 
+---
+---
 
 ## LIFE OF HEARTH
 
